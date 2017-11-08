@@ -2,7 +2,7 @@ $(document).on('pageinit', '#home', function(){
   var url = 'https://api.themoviedb.org/3/',
      mode = 'search/movie?',
      movieName = '&query=Superman',
-     key = 'api_key=15e0b039102ad3deb32fd12cbe96d0f1'
+     key = 'api_key=097df7f2d5540a4eab30b90386c55f51'
      language = '&language=en-US';
 
     $.ajax({
